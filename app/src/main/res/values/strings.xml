@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Sliding Tabs</string>
+
+    <string name="tab1">NEWS</string>
+    <string name="tab2">GAMES</string>
+    <string name="tab3">ENTERTAINMENT</string>
+    <string name="tab4">SPORTS</string>
+    <string name="tab5">TV</string>
+    <string name="tab6">VIDEOS</string>
+    <string name="tab7">IMAGES</string>
+    <string name="tab8">LIVE</string>
+    <string name="action_search">Search</string>
+
+    <string name="action_status">Status</string>
+    <string name="action_settings">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
